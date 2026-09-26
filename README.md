@@ -1,16 +1,25 @@
-## Hi there 👋
+# GoreeWorks
 
-<!--
-**GoreeWorks/GoreeWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+GoreeWorks is the central GitHub profile repository for GoreeWorks projects, documentation, and development resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositories
+
+Projects are organized into dedicated repositories covering websites, store systems, UI resources, brand assets, and development tools.
+
+## Status
+
+Active development and organization.
+
+## Documentation
+
+Each repository is maintained with project documentation, setup information, and licensing details.
+
+## Contribution
+
+Follow repository-specific guidelines when contributing.
+
+## License
+
+See individual repository LICENSE files for applicable terms.
